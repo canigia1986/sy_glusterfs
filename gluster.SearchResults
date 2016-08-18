@@ -1,0 +1,3 @@
+---- Unable to get transaction Matches (2 in 1 files) ----
+Glusterd-op-sm.c (xlators\mgmt\glusterd\src):                        "Unable to get transaction opinfo "
+Glusterd-op-sm.c (xlators\mgmt\glusterd\src):                                        "Unable to get transaction's opinfo");
